@@ -1,0 +1,13 @@
+# Directories
+data/
+models/
+results/
+mlruns/
+
+# File Extensions
+*.csv
+*.pickle
+*.pyc
+
+# Environment Variables
+.env
